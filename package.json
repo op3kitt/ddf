@@ -1,0 +1,15 @@
+{
+  "name": "ddf",
+  "version": "0.5.0",
+  "description": "DodontoF API caller",
+  "main": "index.js",
+  "dependencies": {
+    "msgpack-lite": "^0.1.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kitt",
+  "license": "MIT"
+}
